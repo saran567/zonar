@@ -1,0 +1,82 @@
+<currentlocations>
+<asset tagid="" fleet="GSM_8306_Ryan" id="64" type="0">
+<long>47.4276639</long>
+<lat>-122.2940209</lat>
+<heading>358.290000</heading>
+<time>2007-05-23 14:14 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>on</power>
+</asset>
+<asset tagid="" fleet="gsm_12589_dave_test" id="42" type="0">
+<long>45.5001475</long>
+<lat>-108.9651831</lat>
+<heading>238.820000</heading>
+<time>2007-05-29 06:13 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>off</power>
+</asset>
+<asset tagid="508" fleet="revD_508_TestBed" id="51" type="0">
+<long>47.4275273</long>
+<lat>-122.2950469</lat>
+<heading>171.280000</heading>
+<time>2007-06-05 16:41 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>off</power>
+</asset>
+<asset tagid="509" fleet="revD_509_TestBed" id="60" type="0">
+<long>47.4275227</long>
+<lat>-122.2949583</lat>
+<heading>147.280000</heading>
+<time>2007-06-05 17:00 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>off</power>
+</asset>
+<asset tagid="506" fleet="revD_506_TestBed" id="53" type="0">
+<long>47.4274939</long>
+<lat>-122.2949861</lat>
+<heading>332.830000</heading>
+<time>2007-06-05 17:00 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>off</power>
+</asset>
+<asset tagid="512" fleet="revD_512_TestBed" id="61" type="0">
+<long>47.4274988</long>
+<lat>-122.2949991</lat>
+<heading>329.740000</heading>
+<time>2007-06-05 17:00 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>off</power>
+</asset>
+<asset tagid="503" fleet="revD_503_TestBed" id="58" type="0">
+<long>47.427519</long>
+<lat>-122.2950128</lat>
+<heading>232.790000</heading>
+<time>2007-06-05 17:00 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>off</power>
+</asset>
+<asset tagid="511" fleet="revD_511_TestBed" id="59" type="0">
+<long>47.4274531</long>
+<lat>-122.2950165</lat>
+<heading>110.150000</heading>
+<time>2007-06-05 17:00 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>off</power>
+</asset>
+<asset tagid="514" fleet="revD_514_TestBed" id="56" type="0">
+<long>47.4274849</long>
+<lat>-122.2950011</lat>
+<heading>161.430000</heading>
+<time>2007-06-05 17:00 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>off</power>
+</asset>
+<asset tagid="507" fleet="revD_507_TestBed" id="69" type="0">
+<long>47.4275373</long>
+<lat>-122.2950539</lat>
+<heading>332.830000</heading>
+<time>2007-06-05 17:00 PDT</time>
+<speed unit="Mile/Hour">0</speed>
+<power>off</power>
+</asset>
+</currentlocations>
